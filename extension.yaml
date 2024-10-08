@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://sdk.netlify.com/sdk/config-schema.json
 config:
-  slug: sitecore-netlify-extension
-  name: sitecore-netlify-extension
-  description: Configure XMCloud from Netlify.
+  slug: xmcloud-netlify-extension
+  name: xmcloud-netlify-extension
+  description: Configure XMCloud in Netlify.
   scopes:
     site: ["read", "write"]
     user: ["read"]

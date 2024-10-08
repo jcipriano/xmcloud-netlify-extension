@@ -1,1 +1,1 @@
-# View and install the sitecore-netlify-extension extension.
+# View and install the xmcloud-netlify-extension extension.
